@@ -1,0 +1,11 @@
+name: WO
+
+channels:
+- conda-forge
+
+dependencies:
+- pip==19.0.3
+- Bottle
+- pyhdb
+- pandas
+- scikit-learn

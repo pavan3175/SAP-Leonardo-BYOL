@@ -1,0 +1,7 @@
+pip==19.0.3
+Bottle
+ortools
+pyhdb
+pandas
+numpy==1.16.2
+scikit-learn
